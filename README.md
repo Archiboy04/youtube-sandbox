@@ -46,7 +46,7 @@
 کافیه یه فایل رو (هر فایلی جز فایل‌های پوشه `.github`) رو ویرایش کنی و توی **Commit message** لینک ویدیو رو به این شکل بنویسی:
 
 ```text
-yt-dlp: https://www.youtube.com/watch?v=6qFeURAfItU
+https://www.youtube.com/watch?v=Sv54gmjQevo
 ```
 
 ### مراحل سریع:
